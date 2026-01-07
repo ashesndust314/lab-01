@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Ashley Kang`
+- **CCID:** `1800398`
 
 ## References and Resources
 
